@@ -1,6 +1,6 @@
 - 👋 Wassup, I’m Franklan T.
-- 👀 Future Game Developer/Programmer
-- 🌱 Currently Learning SFML and C++
+- 👀 Future Game Developer/Programmer & Software Developer
+- 🌱 Programming in C++, HTML/JS/CSS, C#, Java
 
 <!---
 K1ngFRNK/K1ngFRNK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
